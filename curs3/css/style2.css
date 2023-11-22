@@ -1,0 +1,26 @@
+div{width: 45%; 
+    float: left;
+border: 2px solid#000000;
+padding: 25px;
+margin: 20px;
+}
+#stanga{color: red;
+background-color: yellow;
+}
+.p1{
+    color: red;
+}
+.p2{color: green;}
+#dreapta{
+    background-color: #000000;
+}
+.p3{font-size: 50px;}
+#jos{
+width: 100%;
+border: 4px solid #000000;
+
+}
+
+#jos >p {color: red;}
+
+#jos article~p{color: blue;}
